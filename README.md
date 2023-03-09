@@ -1,2 +1,2 @@
-# NES_Pong
-Pong game made with 6502 Assembly
+# NerdyNights-sources
+Source code files for Nerdy Nights
